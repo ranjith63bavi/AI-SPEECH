@@ -1,0 +1,7 @@
+{
+  "name": "AI Speech-to-Text Transcriber",
+  "description": "A web application that uses the Gemini API to transcribe spoken words from microphone input or audio files into text.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
